@@ -12,7 +12,7 @@ import java.net.UnknownHostException
 import javax.net.ssl.SSLHandshakeException
 
 /**
- * APIUtils 1.1
+ * APIUtils
  * Una forma sencilla de consumir metodos APIRESt
  */
 object APIUtils {

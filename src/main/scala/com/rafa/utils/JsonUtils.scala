@@ -5,7 +5,7 @@ import com.google.gson.{JsonArray, JsonElement, JsonObject}
 import scala.collection.JavaConversions._
 
 /**
- * JsonUtils 1.1
+ * JsonUtils
  * Una serie de metodos para trabjar con Jsons utilizando Gson
  */
 object JsonUtils {
